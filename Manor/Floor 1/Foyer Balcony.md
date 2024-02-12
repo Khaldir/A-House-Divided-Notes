@@ -1,0 +1,1 @@
+Door to [[Front Outside Balcony]]

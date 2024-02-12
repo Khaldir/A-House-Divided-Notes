@@ -1,0 +1,1 @@
+Hole in the wall, through which the [[Hidden Storage Room]] can be seen

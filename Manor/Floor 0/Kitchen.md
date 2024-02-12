@@ -1,0 +1,1 @@
+Faint clicking sounds coming from the stove accompanied by sounds of tearing metal

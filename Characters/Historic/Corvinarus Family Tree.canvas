@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a3a529c3896b2fdc","type":"group","x":-1000,"y":180,"width":1040,"height":480,"color":"3","label":"Unconfirmed Couple"},
+		{"id":"af7cef4404af754a","x":260,"y":180,"width":1040,"height":480,"color":"4","type":"group","label":"Couple"},
+		{"id":"1fdd4138fee052e7","type":"group","x":-380,"y":-440,"width":1020,"height":480,"color":"4","label":"Couple"},
+		{"id":"f5a36bf53e83898a","x":-720,"y":820,"width":1020,"height":480,"color":"4","type":"group","label":"Couple"},
+		{"id":"9cdbbaf2bfe5d3c0","type":"file","file":"Characters/Historic/Lord Darius Corvinarus.md","x":-360,"y":-380,"width":400,"height":400},
+		{"id":"21fbc4297d0622d4","type":"file","file":"Characters/Historic/Ylana.md","x":220,"y":-380,"width":400,"height":400},
+		{"id":"46bd2d50089cb6ac","type":"file","file":"Characters/Historic/Kryn Corvinarus.md","x":280,"y":240,"width":400,"height":400},
+		{"id":"ac11b8d4890f8ca3","x":880,"y":240,"width":400,"height":400,"type":"file","file":"Characters/Historic/Vivesna.md"},
+		{"id":"2980723412e21ceb","type":"file","file":"Characters/Historic/Elscieth.md","x":-380,"y":240,"width":400,"height":400},
+		{"id":"130973ad2c68d66c","type":"file","file":"Characters/Historic/Betrand.md","x":-980,"y":240,"width":400,"height":400,"color":"3"},
+		{"id":"41fc84e44ab06361","type":"file","file":"Characters/Corvinarus Family/Byscilla Danos.md","x":-700,"y":880,"width":400,"height":400},
+		{"id":"142f08fbb859ba43","type":"file","file":"Characters/Corvinarus Family/Orvinder Danos.md","x":-120,"y":880,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e0a091d6b4f9f2c7","fromNode":"1fdd4138fee052e7","fromSide":"bottom","toNode":"2980723412e21ceb","toSide":"top","color":"4"},
+		{"id":"9ab9c15f8437c60f","fromNode":"1fdd4138fee052e7","fromSide":"bottom","toNode":"46bd2d50089cb6ac","toSide":"top","color":"4"},
+		{"id":"2d712e7520db84e5","fromNode":"41fc84e44ab06361","fromSide":"right","toNode":"142f08fbb859ba43","toSide":"left","toEnd":"none","color":"4","label":"Married"},
+		{"id":"12492316c3f334db","fromNode":"130973ad2c68d66c","fromSide":"right","toNode":"2980723412e21ceb","toSide":"left","toEnd":"none","color":"3","label":"Married?"},
+		{"id":"45257d330494d56d","fromNode":"a3a529c3896b2fdc","fromSide":"bottom","toNode":"41fc84e44ab06361","toSide":"top","color":"4"},
+		{"id":"946ff9c611089075","fromNode":"9cdbbaf2bfe5d3c0","fromSide":"right","toNode":"21fbc4297d0622d4","toSide":"left","toEnd":"none","color":"4","label":"Married"},
+		{"id":"bb2c026a9c37947c","fromNode":"46bd2d50089cb6ac","fromSide":"right","toNode":"ac11b8d4890f8ca3","toSide":"left","toEnd":"none","color":"4","label":"Married"}
+	]
+}

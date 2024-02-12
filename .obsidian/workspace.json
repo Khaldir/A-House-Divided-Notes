@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "997b43298475b20e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b393bc20113df9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b7cb5c627fdc58",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Characters/Historic/Corvinarus Family Tree.canvas",
+                "viewState": {
+                  "x": 150,
+                  "y": 430,
+                  "zoom": -1.2334593070250484
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d51b3bdac9b60dda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Letters and Notes/Burned Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0aff3da28164c7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manor/Floor 0/Dance Hall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a31698e790c19c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdf120ccfae7e57",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3de7f21d424308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e06837022d2b3e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ac078fc51e7b4f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "crystal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd1ee6c8bf043b32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "e826eefcc8f2975b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b20a63b175b28f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ac237e0851d2868",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"Manor/Floor 0\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"Manor/Floor 1\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14787885
+                      }
+                    },
+                    {
+                      "query": "path:\"Manor/Floor -1\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:\"Manor/Floor 2\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4502756
+                      }
+                    },
+                    {
+                      "query": "path:Handouts  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 12105604
+                      }
+                    },
+                    {
+                      "query": "path:Characters",
+                      "color": {
+                        "a": 1,
+                        "rgb": 9291913
+                      }
+                    },
+                    {
+                      "query": "path:Discoveries  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16220415
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 12.0833333333333,
+                  "linkStrength": 1,
+                  "linkDistance": 91,
+                  "scale": 0.2588386562181634,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b546291627a843a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bec65ac24d579fe7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md"
+              }
+            }
+          },
+          {
+            "id": "9f3d6415eacb2d33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e135265e2f0f50c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be720d722f5735b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a31698e790c19c6",
+  "lastOpenFiles": [
+    "Handouts/Journal/6. On The Weight of Time.md",
+    "Characters/Historic/Usk Umberdael.md",
+    "Handouts/Folder/Assorted Notes.md",
+    "Handouts/Folder/Letter to Usk, the Faithful.md",
+    "Manor/Floor 0/Dance Hall.md",
+    "Characters/Corvinarus Family/Anmatar Family/Perrius Anmatar.md",
+    "Characters/Historic/Corvinarus Family Tree.canvas",
+    "Characters/Corvinarus Family/Byscilla Danos.md",
+    "Assets/Pasted image 20240212213641.png",
+    "Manor/Floor 0/Sitting Room.md",
+    "Manor/Floor 0/Lounge.md",
+    "Characters/Historic/Elscieth.md",
+    "Characters/Historic/Lord Darius Corvinarus.md",
+    "Handouts/Old, Battered Journal.md",
+    "Handouts/Folder/Visibility.md",
+    "Handouts/Letters and Notes/Burned Letter.md",
+    "Manor/Floor 0/Private Collection.md",
+    "Handouts/Arcana/Dark Crystals.md",
+    "Handouts/Journal/2. On Planar Threading.md",
+    "Handouts/Journal/3. On Planar Resonance.md",
+    "Manor/Floor 0/Mirror Room.md",
+    "Manor/Floor 0/Workshop turned Storage Room.md",
+    "Handouts/Jewellery/A Delicate Ring.md",
+    "Manor/Floor 0/Ground Floor Passageways.md",
+    "Rumours and Discoveries/Star Phenomenon.md",
+    "Handouts/Letters and Notes/Letter to Elscieth.md",
+    "Characters/Historic/Kryn Corvinarus.md",
+    "Handouts/Book of Cantrip Magic.md",
+    "Assets/Pasted image 20240129211205.png",
+    "Handouts/Letters and Notes",
+    "Handouts/Arcana",
+    "Handouts/Jewellery",
+    "Rumours and Discoveries",
+    "Manor/Floor 0/Other Rooms",
+    "Manor/Floor 2",
+    "Handouts/Folder",
+    "Handouts/Journal",
+    "Handouts",
+    "Manor/Floor -1",
+    "Manor/Manor Connections.canvas",
+    "Assets/Pasted image 20231106202444.png",
+    "Assets/Pasted image 20231106202344.png"
+  ]
+}

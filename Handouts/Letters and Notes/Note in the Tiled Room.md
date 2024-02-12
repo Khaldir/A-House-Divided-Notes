@@ -1,0 +1,1 @@
+"[[Jandry]], I saw Madame [[Vivesna]] spiriting papers out of the Lady [[Ylana|Ylana's]] room. When you find this, tell [[Usk Umberdael|Mr. Usk]] she hid them in the yellow room. - M."

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Manor/Floor 0\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Manor/Floor 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14787885
+      }
+    },
+    {
+      "query": "path:\"Manor/Floor -1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Manor/Floor 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4502756
+      }
+    },
+    {
+      "query": "path:Handouts  ",
+      "color": {
+        "a": 1,
+        "rgb": 12105604
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 9291913
+      }
+    },
+    {
+      "query": "path:Discoveries  ",
+      "color": {
+        "a": 1,
+        "rgb": 16220415
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.18462326225858325,
+  "close": true
+}
