@@ -16,9 +16,9 @@
               "state": {
                 "file": "Characters/Historic/Corvinarus Family Tree.canvas",
                 "viewState": {
-                  "x": 150,
-                  "y": 430,
-                  "zoom": -1.2334593070250484
+                  "x": -500,
+                  "y": 1080,
+                  "zoom": 0
                 }
               },
               "pinned": true
@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manor/Floor 0/Dance Hall.md",
+                "file": "Manor (Material Plane)/Floor 0/Dance Hall.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,14 +54,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Handouts/Folder/Letter to Usk, the Faithful.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c87a4cddc0d42bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Characters/Historic/Usk Umberdael.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "913827f2e743c864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Historic/Usk Umberdael.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a0f35d3c246691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rumours and Discoveries/Lord Darius' Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -127,9 +163,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Characters/Historic/Usk Umberdael.md",
+                "file": "Rumours and Discoveries/Lord Darius' Plan.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -141,31 +177,10 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:\"Manor/Floor 0\"  ",
+                      "query": "path:\"Manor (Material Plane)\"  ",
                       "color": {
                         "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:\"Manor/Floor 1\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14787885
-                      }
-                    },
-                    {
-                      "query": "path:\"Manor/Floor -1\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:\"Manor/Floor 2\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 4502756
+                        "rgb": 16777215
                       }
                     },
                     {
@@ -201,7 +216,7 @@
                   "linkStrength": 1,
                   "linkDistance": 91,
                   "scale": 0.2588386562181634,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -218,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Historic/Usk Umberdael.md"
+                "file": "Rumours and Discoveries/Lord Darius' Plan.md"
               }
             }
           },
@@ -228,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Historic/Usk Umberdael.md",
+                "file": "Rumours and Discoveries/Lord Darius' Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Historic/Usk Umberdael.md",
+                "file": "Rumours and Discoveries/Lord Darius' Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,47 +294,84 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a31698e790c19c6",
+  "floating": {
+    "id": "eb6d4b57245e7dc0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a681e46423a4b353",
+        "type": "window",
+        "children": [
+          {
+            "id": "76f1be3a1805e918",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb35f39a671b8965",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Corvinarus Family/Byscilla Danos.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e6a0f35d3c246691",
   "lastOpenFiles": [
-    "Handouts/Journal/6. On The Weight of Time.md",
+    "Rumours and Discoveries/Lord Darius' Plan.md",
     "Characters/Historic/Usk Umberdael.md",
-    "Handouts/Folder/Assorted Notes.md",
-    "Handouts/Folder/Letter to Usk, the Faithful.md",
-    "Manor/Floor 0/Dance Hall.md",
-    "Characters/Corvinarus Family/Anmatar Family/Perrius Anmatar.md",
-    "Characters/Historic/Corvinarus Family Tree.canvas",
-    "Characters/Corvinarus Family/Byscilla Danos.md",
-    "Assets/Pasted image 20240212213641.png",
-    "Manor/Floor 0/Sitting Room.md",
-    "Manor/Floor 0/Lounge.md",
-    "Characters/Historic/Elscieth.md",
     "Characters/Historic/Lord Darius Corvinarus.md",
-    "Handouts/Old, Battered Journal.md",
+    "Manor (Material Plane)/Floor 0/Dining Room.md",
+    "Manor (Material Plane)/Floor 0/Dance Hall.md",
     "Handouts/Folder/Visibility.md",
-    "Handouts/Letters and Notes/Burned Letter.md",
-    "Manor/Floor 0/Private Collection.md",
-    "Handouts/Arcana/Dark Crystals.md",
-    "Handouts/Journal/2. On Planar Threading.md",
-    "Handouts/Journal/3. On Planar Resonance.md",
-    "Manor/Floor 0/Mirror Room.md",
-    "Manor/Floor 0/Workshop turned Storage Room.md",
-    "Handouts/Jewellery/A Delicate Ring.md",
-    "Manor/Floor 0/Ground Floor Passageways.md",
+    "Characters/Corvinarus Family/Byscilla Danos.md",
     "Rumours and Discoveries/Star Phenomenon.md",
+    "Manor (Material Plane)/Floor 0/Small Dining Room.md",
+    "Manor (Material Plane)/Floor 0/Ground Floor Passageways.md",
     "Handouts/Letters and Notes/Letter to Elscieth.md",
+    "Handouts/Letters and Notes/Note in the Tiled Room.md",
+    "Handouts/Letters and Notes/Notepad from the Master Bathroom Peekhole.md",
+    "Handouts/Letters and Notes/Burned Letter.md",
     "Characters/Historic/Kryn Corvinarus.md",
+    "Characters/Historic/Elscieth.md",
     "Handouts/Book of Cantrip Magic.md",
+    "Handouts/Jewellery/A Delicate Ring.md",
+    "Manor (Material Plane)/Floor 0/Library.md",
+    "Handouts/Folder/Assorted Notes.md",
+    "Handouts/Old, Battered Journal.md",
+    "Characters/Historic/Corvinarus Family Tree.canvas",
+    "Handouts/Journal/6. On The Weight of Time.md",
+    "Handouts/Journal/7. On Planar Accretion.md",
+    "Handouts/Journal/8. On Tethered Planes.md",
+    "Handouts/Arcana/Dark Crystals.md",
+    "Handouts/Journal/9. On Accretion Sites.md",
+    "Assets/Pasted image 20240212213641.png",
     "Assets/Pasted image 20240129211205.png",
     "Handouts/Letters and Notes",
     "Handouts/Arcana",
     "Handouts/Jewellery",
     "Rumours and Discoveries",
-    "Manor/Floor 0/Other Rooms",
-    "Manor/Floor 2",
+    "Manor (Material Plane)/Floor 0/Other Rooms",
+    "Manor (Material Plane)/Floor 2",
     "Handouts/Folder",
     "Handouts/Journal",
     "Handouts",
-    "Manor/Floor -1",
+    "Manor (Material Plane)/Floor -1",
     "Manor/Manor Connections.canvas",
     "Assets/Pasted image 20231106202444.png",
     "Assets/Pasted image 20231106202344.png"

@@ -6,7 +6,6 @@ Elscieth appears to have been in line to inherit the Manor from her father.
 >[!quote] [[Assorted Notes]]
 ![[Assorted Notes#^ElsciethInheritance]]
 
-
 She has had at least some minor arcane training, though whether she continued with this is unknown.
 >[!quote] [[Book of Cantrip Magic]]
 >![[Book of Cantrip Magic#^CantripBookInscription]]

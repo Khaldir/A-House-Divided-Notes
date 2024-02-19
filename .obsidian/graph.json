@@ -8,31 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Manor/Floor 0\"  ",
+      "query": "path:\"Manor (Material Plane)\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Manor/Floor 1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14787885
-      }
-    },
-    {
-      "query": "path:\"Manor/Floor -1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Manor/Floor 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4502756
+        "rgb": 16777215
       }
     },
     {

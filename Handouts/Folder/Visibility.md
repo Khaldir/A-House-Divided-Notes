@@ -1,6 +1,5 @@
 A hastily penned note, perhaps to oneself:
-
-It must be seen by everyone, everyone who matters at least. There must be no doubt, too much hinges on the belief and the stealth it will afford me.
+It must be seen by everyone, everyone who matters at least. There must be no doubt, too much hinges on the belief and the stealth it will afford me. ^a57175
 
 >[!question]
 >Perhaps the reason for the party?

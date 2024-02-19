@@ -10,7 +10,7 @@ I know that it hurts you to see me suffer, and I do not wish that upon you. We a
 With the anniversary of her death approaching, I would like to see you again, but I must warn you that I have also invited [[Kryn Corvinarus|Kryn]], and I know he will be in attendance. I believe that your mother would wish for you two to be reconciled, to leave this trouble and past behind, and be a family once more.
 ^ElsciethAndKrynDisagreement
 
-For the anniversary of the night she passed, I am gathering the family, her friends, and those dignitaries who knew her to celebrate her life and remember her as she was—rather than the senseless cruelty that took her from us. There will be dinner and dancing, and all the things which she so cherished in life. I hope that you will attend, and that we can find some time to put this misery in the past.
+For the anniversary of the night she passed, I am gathering the family, her friends, and those dignitaries who knew her to celebrate her life and remember her as she was—rather than the senseless cruelty that took her from us. There will be dinner and dancing, and all the things which she so cherished in life. I hope that you will attend, and that we can find some time to put this misery in the past. ^2b4065
 
 If you do not feel you can spare the time to visit, nor risk suffering the cruelty of your brother, I will understand. I hope that even so you would find it within you to accept my apology, for truly I am sorry.
 
